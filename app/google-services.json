@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707288559983",
+    "project_id": "migros-38209",
+    "storage_bucket": "migros-38209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707288559983:android:0e04d462f0769a4afa389a",
+        "android_client_info": {
+          "package_name": "com.furkan.migroscase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707288559983-g3gkq408evr2dm30f3gdh337llodmsil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.furkan.migroscase",
+            "certificate_hash": "6c92908d3cccda63c7e5028bff8d2968f1bd337b"
+          }
+        },
+        {
+          "client_id": "707288559983-qsij2f32umid6r5dndfqhcv5shm90jv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Dy-fbzaXLq_M7rpIbMw7PqNecSH_Jss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707288559983-qsij2f32umid6r5dndfqhcv5shm90jv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
